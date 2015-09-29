@@ -3,7 +3,7 @@ Linux Wallet
 Explorer: http://explorer.lendcoin.org/
 GitHub: https://github.com/LendCoin
 LendCoin: http://lendcoin.info
-Exchange: btclend.org
+Exchange: https://btclend.org
  
 Proof of Stake
 1 - 20,000 LNC - 5%
